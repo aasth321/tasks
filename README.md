@@ -1,3 +1,4 @@
+# solubility-prediction-ml
 This project applies machine learning models to predict the aqueous solubility (logS) of chemical compounds using molecular descriptors.
 It demonstrates:
 
